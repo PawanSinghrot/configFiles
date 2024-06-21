@@ -1,19 +1,29 @@
+cwjobs.co.uk###adbanner-container
+cwjobs.co.uk###carousel-hero > div.carousel-inner > div.company-image.item.active
+cwjobs.co.uk###carousel-hero > div.carousel-inner:first-child > div.company-image.item.active:nth-child(2)
 cwjobs.co.uk##div.container.results-container:nth-child(3) > div.row.job-results-row:nth-child(5) > div.col-sm-12.reset-to-row.equal-height > div.col-sm-9.job-results.clearfix:last-child > div.row > div.col-xs-12.job-results.clearfix:first-child > div.gc-container.gc-generic-container.clearfix.center-align.gc-dots-background:nth-child(4)
-cwjobs.co.uk##div.container.results-container:nth-child(3) > div.row.job-results-row:nth-child(5) > div.col-sm-12.reset-to-row.equal-height > div.col-sm-9.job-results.clearfix:last-child > div.row > div.col-xs-12.job-results.clearfix:first-child > div.job:nth-child(10) > a > img
 cwjobs.co.uk##div.container.results-container:nth-child(3) > div.row.job-results-row:nth-child(5) > div.col-sm-12.reset-to-row.equal-height > div.col-sm-9.job-results.clearfix:last-child > div.row > div.col-xs-12.job-results.clearfix:first-child > div.gc-container:nth-child(4)
+cwjobs.co.uk##div.container.results-container:nth-child(3) > div.row.job-results-row:nth-child(5) > div.col-sm-12.reset-to-row.equal-height > div.col-sm-9.job-results.clearfix:last-child > div.row > div.col-xs-12.job-results.clearfix:first-child > div.job:nth-child(10) > a > img
+cwjobs.co.uk##div:first-child > div.container.job-content:last-child > div:nth-child(3) > div.row:first-child > div.col-sm-12.remove-column-padding > div.company-image
+economictimes.indiatimes.com##DIV[class="adblocker_popup"]
+economictimes.indiatimes.com##DIV[class="popupbgLayer"]
+geeksforgeeks.org###main > div.leftSideBarParent:nth-child(3) > div.leftSideBar > div.promotional:last-child > a > img
+geeksforgeeks.org###secondary
+geeksforgeeks.org###secondary > div.widget.widget_text:last-child > a > img
+geeksforgeeks.org###secondary > div.widget.widget_text:nth-child(2) > a > img
+m.timesofindia.com###content > div.articlepage.clearfix:last-child > div.article_outer:nth-child(8) > div.trending_container:nth-child(9)
+naukri.com###calBackFormBelly
+ndtv.com###jiosaavn-widget
+onedrive.live.com##DIV[class="od-QuotaBannerWrapper od-QuotaBannerWrapper-placeholder"]
+outlook.live.com###MainModule > div.SW7A6 > div.LBktY > div.GssDD:last-child
+outlook.live.com###app > div._2kUAzKQd_A7zj30wwO3Tty.body-154 > div.zZJcFiYp1GsQ-Zkcz02eC:last-child > div.mXEfuMleN9V2Rx6d6qvsu:nth-child(2) > div._2aSECY2_aC8BM-pa12gLyl:first-child > div._1ODGxzlP0LoH0z5WBlaKIV > div._1dBL6mV6xRANqjh_Z8BjN6:last-child > div._1fti_QgAzqGWPGlqh_FSvI:last-child
+outlook.live.com##DIV[class="GssDD"]
+outlook.live.com##DIV[class="Qhdyf aJ4OG PTmEq Qhdyf fz7QX"]
+outlook.live.com##DIV[class="kDQ0p fz7QX _CNdR Qhdyf"]
+totaljobs.com###adbanner-container
 totaljobs.com##div.container.results-container:nth-child(3) > div.row.job-results-row:nth-child(5) > div.col-sm-12.reset-to-row.equal-height > div.col-sm-9.job-results.clearfix:last-child > div.row > div.col-xs-12.job-results.clearfix:first-child > div.ci-advert-container:nth-child(9) > a.ci-link.ci-advert:last-child > div.job.ci-advert-job > div.row > div.col-sm-12 > div.row > div.ci-job-content.col-xs-12.col-sm-12.col-md-12
 totaljobs.com##div.container.results-container:nth-child(3) > div.row.job-results-row:nth-child(5) > div.col-sm-12.reset-to-row.equal-height > div.col-sm-9.job-results.clearfix:last-child > div.row > div.col-xs-12.job-results.clearfix:first-child > div.gc-container:nth-child(4)
 totaljobs.com##div.container.results-container:nth-child(3) > div.row.job-results-row:nth-child(5) > div.col-sm-12.reset-to-row.equal-height > div.col-sm-9.job-results.clearfix:last-child > div.row > div.col-xs-12.job-results.clearfix:first-child > div.row:nth-child(6) > div.col-sm-12 > button.btn.btn-primary.jbe-btn-email-to > div.jbe-email-icon
-cwjobs.co.uk##div:first-child > div.container.job-content:last-child > div:nth-child(3) > div.row:first-child > div.col-sm-12.remove-column-padding > div.company-image
-cwjobs.co.uk###adbanner-container
-cwjobs.co.uk###carousel-hero > div.carousel-inner:first-child > div.company-image.item.active:nth-child(2)
-cwjobs.co.uk###carousel-hero > div.carousel-inner > div.company-image.item.active
 totaljobs.com##div:first-child > div.container.job-content:last-child > div:nth-child(3) > div.row:first-child > div.col-sm-12.remove-column-padding > div.company-image
-totaljobs.com###adbanner-container
-geeksforgeeks.org###secondary > div.widget.widget_text:last-child > a > img
-geeksforgeeks.org###secondary > div.widget.widget_text:nth-child(2) > a > img
-geeksforgeeks.org###main > div.leftSideBarParent:nth-child(3) > div.leftSideBar > div.promotional:last-child > a > img
-naukri.com###calBackFormBelly
-ndtv.com###jiosaavn-widget
-m.timesofindia.com###content > div.articlepage.clearfix:last-child > div.article_outer:nth-child(8) > div.trending_container:nth-child(9)
-outlook.live.com###app > div._2kUAzKQd_A7zj30wwO3Tty.body-154 > div.zZJcFiYp1GsQ-Zkcz02eC:last-child > div.mXEfuMleN9V2Rx6d6qvsu:nth-child(2) > div._2aSECY2_aC8BM-pa12gLyl:first-child > div._1ODGxzlP0LoH0z5WBlaKIV > div._1dBL6mV6xRANqjh_Z8BjN6:last-child > div._1fti_QgAzqGWPGlqh_FSvI:last-child
+www.geeksforgeeks.org##DIV[class="rightBar"]
+www.geeksforgeeks.org##DIV[id="secondary"][class="widget-area"]
