@@ -19,7 +19,6 @@ outlook.live.com###app > div._2kUAzKQd_A7zj30wwO3Tty.body-154 > div.zZJcFiYp1GsQ
 outlook.live.com##DIV[class="GssDD"]
 outlook.live.com##DIV[class="Qhdyf aJ4OG PTmEq Qhdyf fz7QX"]
 outlook.live.com##DIV[class="kDQ0p fz7QX _CNdR Qhdyf"]
-onedrive.live.com##DIV[class="od-QuotaBannerWrapper od-QuotaBannerWrapper-placeholder"]
 totaljobs.com###adbanner-container
 totaljobs.com##div.container.results-container:nth-child(3) > div.row.job-results-row:nth-child(5) > div.col-sm-12.reset-to-row.equal-height > div.col-sm-9.job-results.clearfix:last-child > div.row > div.col-xs-12.job-results.clearfix:first-child > div.ci-advert-container:nth-child(9) > a.ci-link.ci-advert:last-child > div.job.ci-advert-job > div.row > div.col-sm-12 > div.row > div.ci-job-content.col-xs-12.col-sm-12.col-md-12
 totaljobs.com##div.container.results-container:nth-child(3) > div.row.job-results-row:nth-child(5) > div.col-sm-12.reset-to-row.equal-height > div.col-sm-9.job-results.clearfix:last-child > div.row > div.col-xs-12.job-results.clearfix:first-child > div.gc-container:nth-child(4)
