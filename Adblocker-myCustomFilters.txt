@@ -14,7 +14,6 @@ geeksforgeeks.org###secondary > div.widget.widget_text:nth-child(2) > a > img
 m.timesofindia.com###content > div.articlepage.clearfix:last-child > div.article_outer:nth-child(8) > div.trending_container:nth-child(9)
 naukri.com###calBackFormBelly
 ndtv.com###jiosaavn-widget
-onedrive.live.com##DIV[class="od-QuotaBannerWrapper od-QuotaBannerWrapper-placeholder"]
 outlook.live.com###MainModule > div.SW7A6 > div.LBktY > div.GssDD:last-child
 outlook.live.com###app > div._2kUAzKQd_A7zj30wwO3Tty.body-154 > div.zZJcFiYp1GsQ-Zkcz02eC:last-child > div.mXEfuMleN9V2Rx6d6qvsu:nth-child(2) > div._2aSECY2_aC8BM-pa12gLyl:first-child > div._1ODGxzlP0LoH0z5WBlaKIV > div._1dBL6mV6xRANqjh_Z8BjN6:last-child > div._1fti_QgAzqGWPGlqh_FSvI:last-child
 outlook.live.com##DIV[class="GssDD"]
